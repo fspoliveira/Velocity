@@ -10,7 +10,7 @@ import org.apache.velocity.Template;
 import org.apache.velocity.VelocityContext;
 import org.apache.velocity.app.VelocityEngine;
 
-public class EmailDemo
+public class GenerateXML
 {
     public static void main( String[] args )
         throws Exception
